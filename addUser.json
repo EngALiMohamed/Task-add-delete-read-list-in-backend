@@ -1,0 +1,26 @@
+[
+  { "id": 1, "fname": "ali", "lname": "mohamed", "age": 20, "city": "zagazig" },
+  {
+    "id": 3,
+    "fname": "hassan",
+    "lname": "mohamed",
+    "age": 20,
+    "city": "zagazig"
+  },
+  {
+    "id": 5,
+    "fname": "ahmed",
+    "lname": "mohamed",
+    "age": 26,
+    "city": "zagazig"
+  },
+  { "id": 7, "fname": "fathy", "lname": "ahmed", "age": 26, "city": "zagazig" },
+  {
+    "id": 9,
+    "fname": "abdulrahman",
+    "lname": "islam",
+    "age": 29,
+    "city": "alex"
+  },
+  { "id": 10, "fname": "saied", "lname": "amr", "age": 24, "city": "aswan" }
+]
